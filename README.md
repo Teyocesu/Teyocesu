@@ -21,5 +21,5 @@
 <h2 align="center">💻 Statistics</h2>
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerbecs)](https://github.com/anuraghazra/github-readme-stats)
+  [![Kerbecs's GitHub stats](https://github-readme-stats-teyocesus-projects.vercel.app/api?username=kerbecs)](https://github.com/kerbecs/github-readme-stats)
 </p>
