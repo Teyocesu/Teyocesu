@@ -10,7 +10,7 @@
   * 🤟 `My name is`: **Teyocesu**
   * 🙋‍♂️ `Pronouns`: **He/Him**
   * ⚡ `I'm`: **20 years old**
-  * 🌱 `I’m currently learning`: **Python**
+  * 🌱 `I’m currently learning`: **Python** and **Java**
 
 ~~#Main Program~~
 
