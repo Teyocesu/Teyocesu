@@ -45,53 +45,31 @@ I am a developer focused on building useful, maintainable software across mobile
 
 ## Featured projects
 
-### Manga Tracker
-`Python` `FastAPI` `SQLite` `PostgreSQL` `WhatsApp Cloud API`
-
-Private MVP for tracking owned and missing manga volumes, updating public editorial data, exporting/importing CSV backups, and separating collections by WhatsApp user.
-
-### [Desafio Calculo Mental](https://github.com/Teyocesu/Desafio-Calculo-Mental)
-`Expo` `React Native` `TypeScript` `AsyncStorage`
-
-Mental math game with multiple modes, configurable difficulty, local history, advanced stats, sounds, countdowns, and animated feedback.
-
-### [Desafio Reaccion Android](https://github.com/Teyocesu/desafio-reaccion-android)
-`Kotlin` `Jetpack Compose` `MVVM` `SharedPreferences`
-
-Android reaction and attention game with progressive levels, local rankings, response-time tracking, sounds, and configurable game rules.
+| Project | Stack | What it does |
+|---|---|---|
+| **Manga Tracker** | Python, FastAPI, SQLite, PostgreSQL, WhatsApp Cloud API | Private MVP for tracking owned and missing manga volumes, updating public editorial data, exporting/importing CSV backups, and separating collections by WhatsApp user. |
+| [**Desafio Calculo Mental**](https://github.com/Teyocesu/Desafio-Calculo-Mental) | Expo, React Native, TypeScript, AsyncStorage | Mental math game with multiple modes, configurable difficulty, local history, advanced stats, sounds, countdowns, and animated feedback. |
+| [**Desafio Reaccion Android**](https://github.com/Teyocesu/desafio-reaccion-android) | Kotlin, Jetpack Compose, MVVM, SharedPreferences | Android reaction and attention game with progressive levels, local rankings, response-time tracking, sounds, and configurable game rules. |
 
 ## Collaborative work
 
-### [Smart Toolbox](https://github.com/impatrq/smart_toolbox)
-`TypeScript` `Ionic` `React` `Next.js` `Firebase` `uPython`
+| Project | Stack | Contribution context |
+|---|---|---|
+| [**Smart Toolbox**](https://github.com/impatrq/smart_toolbox) | TypeScript, Ionic, React, Next.js, Firebase, uPython | Collaborative safety system for tool control in workshop environments, combining mobile, web, desktop, database, and microcontroller components. |
+| [**KeysHaven Frontend**](https://github.com/AgustinNari/-Frontend-Proyecto-KeysHaven) | JavaScript, React, Vite | Marketplace frontend project with a dedicated React/Vite application structure. |
+| [**KeysHaven Backend**](https://github.com/AgustinNari/-Backend-Proyecto-KeysHaven) | Java, Spring Boot, Maven | Backend service for the KeysHaven marketplace project. |
+| [**SimuladorF1**](https://github.com/SantiMussi/SimuladorF1) | Python, FastF1, pandas, NumPy, Streamlit, Plotly | Educational Formula 1 tire-wear simulation and data visualization project. |
+| [**Proyecto Seminario Integracion Profesional**](https://github.com/marcosvillar4/Proyecto-Seminario-Integracion-Profesional) | Kotlin, Android, Firebase | Android application project under `tpo.seminario.breakbuddy`, using Firebase services and Android architecture components. |
 
-Collaborative safety system for tool control in workshop environments, combining mobile, web, desktop, database, and microcontroller components.
+## GitHub insights
 
-### [KeysHaven Frontend](https://github.com/AgustinNari/-Frontend-Proyecto-KeysHaven)
-`JavaScript` `React` `Vite`
+<div align="center">
 
-Marketplace frontend project with a dedicated React/Vite application structure.
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teyocesu&theme=github_dark" alt="Teyocesu GitHub profile summary" />
 
-### [KeysHaven Backend](https://github.com/AgustinNari/-Backend-Proyecto-KeysHaven)
-`Java` `Spring Boot` `Maven`
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teyocesu&theme=github_dark" alt="Teyocesu repositories per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teyocesu&theme=github_dark" alt="Teyocesu GitHub stats" />
 
-Backend service for the KeysHaven marketplace project.
+<img width="49%" src="https://streak-stats.demolab.com?user=teyocesu&theme=github-dark-blue&hide_border=true" alt="Teyocesu GitHub streak" />
 
-### [SimuladorF1](https://github.com/SantiMussi/SimuladorF1)
-`Python` `FastF1` `pandas` `NumPy` `Streamlit` `Plotly`
-
-Educational Formula 1 tire-wear simulation and data visualization project.
-
-### [Proyecto Seminario Integracion Profesional](https://github.com/marcosvillar4/Proyecto-Seminario-Integracion-Profesional)
-`Kotlin` `Android` `Firebase`
-
-Android application project under `tpo.seminario.breakbuddy`, using Firebase services and Android architecture components.
-
-## Development focus
-
-| Area | Tools and interests |
-|---|---|
-| Mobile apps | React Native, Expo, Kotlin, Jetpack Compose |
-| Backend APIs | FastAPI, Spring Boot, WhatsApp Cloud API integrations |
-| Data and persistence | SQLite, PostgreSQL, Firebase, CSV workflows |
-| Product thinking | Clear UX, local-first behavior, practical features, maintainable code |
+</div>
