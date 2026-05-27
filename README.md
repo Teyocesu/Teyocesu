@@ -47,7 +47,7 @@ I am a developer focused on building useful, maintainable software across mobile
 
 | Project | Stack | What it does |
 |---|---|---|
-| **Manga Tracker** | Python, FastAPI, SQLite, PostgreSQL, WhatsApp Cloud API | Private MVP for tracking owned and missing manga volumes, updating public editorial data, exporting/importing CSV backups, and separating collections by WhatsApp user. |
+| [**Manga Tracker**](https://github.com/Teyocesu/Manga-Tracker) | Python, FastAPI, SQLite, PostgreSQL, WhatsApp Cloud API | Private MVP for tracking owned and missing manga volumes, updating public editorial data, exporting/importing CSV backups, and separating collections by WhatsApp user. |
 | [**Desafio Calculo Mental**](https://github.com/Teyocesu/Desafio-Calculo-Mental) | Expo, React Native, TypeScript, AsyncStorage | Mental math game with multiple modes, configurable difficulty, local history, advanced stats, sounds, countdowns, and animated feedback. |
 | [**Desafio Reaccion Android**](https://github.com/Teyocesu/desafio-reaccion-android) | Kotlin, Jetpack Compose, MVVM, SharedPreferences | Android reaction and attention game with progressive levels, local rankings, response-time tracking, sounds, and configurable game rules. |
 
