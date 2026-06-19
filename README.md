@@ -30,15 +30,20 @@ I am a developer focused on building useful, maintainable software across mobile
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -47,6 +52,7 @@ I am a developer focused on building useful, maintainable software across mobile
 
 | Project | Stack | What it does |
 |---|---|---|
+| [**Manga Reader Selfhosted**](https://github.com/Teyocesu/Manga-Reader-Selfhosted) | React, Vite, Node.js, Express, SQLite, Tailscale, Google Cloud | Private self-hosted manga/manhwa reader for personal archives, with archive and folder uploads, automatic thumbnails, reading progress, page/webtoon modes, storage quota controls, and private remote access through Tailscale. |
 | [**Manga Tracker**](https://github.com/Teyocesu/Manga-Tracker) | Python, FastAPI, SQLite, PostgreSQL, WhatsApp Cloud API | Private MVP for tracking owned and missing manga volumes, updating public editorial data, exporting/importing CSV backups, and separating collections by WhatsApp user. |
 | [**Desafio Calculo Mental**](https://github.com/Teyocesu/Desafio-Calculo-Mental) | Expo, React Native, TypeScript, AsyncStorage | Mental math game with multiple modes, configurable difficulty, local history, advanced stats, sounds, countdowns, and animated feedback. |
 | [**Desafio Reaccion Android**](https://github.com/Teyocesu/desafio-reaccion-android) | Kotlin, Jetpack Compose, MVVM, SharedPreferences | Android reaction and attention game with progressive levels, local rankings, response-time tracking, sounds, and configurable game rules. |
