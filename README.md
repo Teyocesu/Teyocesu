@@ -1,83 +1,45 @@
-<div align="center">
+# Teyocesu
 
-# Hi, I'm Teyocesu
+I build and ship practical software across local-first desktop applications, backend and web systems, developer tooling, mobile apps, and platform/protocol integrations. My current work emphasizes on-device processing, bounded data flows, authenticated local communication, and release, CI, and test workflows.
 
-Developer building mobile apps, backend tools, and practical software projects.
+## Current focus
 
-[![GitHub](https://img.shields.io/badge/GitHub-Teyocesu-181717?style=for-the-badge&logo=github)](https://github.com/Teyocesu)
-![Profile views](https://komarev.com/ghpvc/?username=teyocesu&style=for-the-badge&color=0e75b6)
+- Desktop applications that keep audio, text, and user state local where possible.
+- Web and API systems with explicit storage, validation, and security boundaries.
+- Developer tools and protocol integrations for controlled local or LAN workflows.
+- Reproducible builds, checksums, automated tests, and recovery paths around releases.
 
-</div>
+## Flagship projects
 
----
-
-## About me
-
-I am a developer focused on building useful, maintainable software across mobile, web, and backend environments. I enjoy turning practical ideas into working products: mobile games with local persistence, API-driven tools, WhatsApp integrations, dashboards, and collaborative academic projects.
-
-- Building with `Python`, `Java`, `TypeScript`, and `Kotlin`.
-- Interested in mobile apps, backend APIs, local-first tools, and clean user experiences.
-- Comfortable working across frontend, backend, databases, and deployment workflows.
-- Always improving through real projects, teamwork, and iterative problem solving.
-
-## Tech stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## Featured projects
-
-| Project | Stack | What it does |
+| Project | Status | What it does |
 |---|---|---|
-| [**Prueba Digital**](https://github.com/Teyocesu/Prueba-Digital) | TypeScript, React, Next.js, Tailwind CSS, JSZip, pdf-lib | Browser-only evidence organizer that calculates SHA-256 hashes for original media, associates supporting screenshots, generates a PDF manifest and verified ZIP package, and includes an independent hash verifier. |
-| [**Polivalent Media Downloader**](https://github.com/Teyocesu/Polivalent-Media-Downloader) | Python, FastAPI, React, Vite, Docker, yt-dlp, ffmpeg | Private, security-conscious web tool to retrieve authorized public media links with a closed platform allowlist, one-time downloads, temporary storage cleanup, authentication, and Render deployment support. |
-| [**Manga Reader Selfhosted**](https://github.com/Teyocesu/Manga-Reader-Selfhosted) | React, Vite, Node.js, Express, SQLite, Tailscale, Google Cloud | Private self-hosted manga/manhwa reader for personal archives, with archive and folder uploads, automatic thumbnails, reading progress, page/webtoon modes, storage quota controls, and private remote access through Tailscale. |
-| [**Manga Tracker**](https://github.com/Teyocesu/Manga-Tracker) | Python, FastAPI, SQLite, PostgreSQL, WhatsApp Cloud API | Private MVP for tracking owned and missing manga volumes, updating public editorial data, exporting/importing CSV backups, and separating collections by WhatsApp user. |
-| [**Desafio Calculo Mental**](https://github.com/Teyocesu/Desafio-Calculo-Mental) | Expo, React Native, TypeScript, AsyncStorage | Mental math game with multiple modes, configurable difficulty, local history, advanced stats, sounds, countdowns, and animated feedback. |
-| [**Desafio Reaccion Android**](https://github.com/Teyocesu/desafio-reaccion-android) | Kotlin, Jetpack Compose, MVVM, SharedPreferences | Android reaction and attention game with progressive levels, local rankings, response-time tracking, sounds, and configurable game rules. |
+| [ClassScribe](https://github.com/Teyocesu/ClassScribe) | Public · [v0.8.0](https://github.com/Teyocesu/ClassScribe/releases/latest) | Local-first desktop app for recording classes and creating editable, speaker-aware transcripts on macOS and Windows. Speech processing runs on the device, with live editing, recovery, speaker handling, exports, and tested release artifacts. |
+| [LyricsChatbox](https://github.com/Teyocesu/LyricsChatbox) | Public · [v0.4.0](https://github.com/Teyocesu/LyricsChatbox/releases/latest) | Windows C#/.NET/WPF app that follows native Apple Music playback, finds synchronized lyrics, and sends the current line to the VRChat OSC Chatbox. Accounts, telemetry, Apple credentials, and a backend are not required. |
+| [Prueba Digital](https://github.com/Teyocesu/Prueba-Digital) | Public | Browser-side evidence tool that preserves file bytes, calculates SHA-256 integrity hashes, associates supporting captures, and generates an organized manifest/package with independent verification. |
+| [Polivalent Media Downloader](https://github.com/Teyocesu/Polivalent-Media-Downloader) | Public | FastAPI/React tool for authorized public media links, using a closed platform allowlist, ephemeral one-time downloads, cleanup, and Docker-supported deployment. It does not target DRM, paywall, or private-access bypassing. |
 
-## Collaborative work
+## Selected private engineering work
 
-| Project | Stack | Contribution context |
+| Project | Status | What it does |
 |---|---|---|
-| [**Smart Toolbox**](https://github.com/impatrq/smart_toolbox) | TypeScript, Ionic, React, Next.js, Firebase, uPython | Collaborative safety system for tool control in workshop environments, combining mobile, web, desktop, database, and microcontroller components. |
-| [**KeysHaven Frontend**](https://github.com/AgustinNari/-Frontend-Proyecto-KeysHaven) | JavaScript, React, Vite | Marketplace frontend project with a dedicated React/Vite application structure. |
-| [**KeysHaven Backend**](https://github.com/AgustinNari/-Backend-Proyecto-KeysHaven) | Java, Spring Boot, Maven | Backend service for the KeysHaven marketplace project. |
-| [**SimuladorF1**](https://github.com/SantiMussi/SimuladorF1) | Python, FastF1, pandas, NumPy, Streamlit, Plotly | Educational Formula 1 tire-wear simulation and data visualization project. |
-| [**Proyecto Seminario Integracion Profesional**](https://github.com/marcosvillar4/Proyecto-Seminario-Integracion-Profesional) | Kotlin, Android, Firebase | Android application project under `tpo.seminario.breakbuddy`, using Firebase services and Android architecture components. |
+| Avatar Remote | Private · closed-source | Local-first desktop/mobile bridge for VRChat OSC and OSCQuery, with authenticated realtime communication, LAN pairing/security, and mobile control of avatar parameters. |
+| WorkflowMCP | Private · closed-source | Local read-only MCP server that provides Codex with bounded canonical project context, Git state, and validation guidance for spec-driven repositories. |
+| Manga Tracker | Private · closed-source | WhatsApp + web workflow for multi-user manga collection tracking, persistent state, and editorial/provider integrations. |
 
-## GitHub insights
+## Currently building
 
-<div align="center">
+- [Avatar Doctor](https://github.com/Teyocesu/Avatar-Doctor) — **Public · pre-alpha.** A Unity Editor package with a presentation-only window plus deterministic package validation and release-artifact workflows. Avatar discovery, scanning, diagnostics, repairs, Quest preparation, and publishing remain planned rather than implemented.
+- EscudoPago — **Private · bootstrap/early.** A B2B concept for helping Mercado Pago merchants organize and manage chargebacks with a strict security posture. It is not production-ready and is not for real data or credentials.
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teyocesu&theme=github_dark" alt="Teyocesu GitHub profile summary" />
+## Additional / earlier projects
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teyocesu&theme=github_dark" alt="Teyocesu repositories per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teyocesu&theme=github_dark" alt="Teyocesu GitHub stats" />
+- [Manga Reader Selfhosted](https://github.com/Teyocesu/Manga-Reader-Selfhosted) — Local-first reader for personal CBZ/ZIP archives with uploads, reading progress, page/webtoon modes, quotas, and private-network access.
+- [Desafio Calculo Mental](https://github.com/Teyocesu/Desafio-Calculo-Mental) — Expo/React Native/TypeScript mobile math game with local history and statistics.
+- [Desafio Reaccion Android](https://github.com/Teyocesu/desafio-reaccion-android) — Offline Kotlin/Jetpack Compose reaction and attention game with local scores and history.
 
-<img width="49%" src="https://streak-stats.demolab.com?user=teyocesu&theme=github-dark-blue&hide_border=true" alt="Teyocesu GitHub streak" />
+## Core technology stack
 
-</div>
+- **Languages:** Swift · C# · TypeScript · Python · Kotlin
+- **Desktop and UI:** SwiftUI · WPF · React
+- **Backend and data:** .NET · FastAPI · Node.js · PostgreSQL / SQLite
+- **Delivery:** Docker · GitHub Actions · Git
