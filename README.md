@@ -57,6 +57,8 @@ Most of my current work is about software that stays useful outside a demo:
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra" />
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -101,7 +103,7 @@ Most of my current work is about software that stays useful outside a demo:
 | Desktop & Mobile | `SwiftUI` · `WPF` · `Jetpack Compose` · `React Native` · `Expo` · `Android` |
 | Web / Frontend | `React` · `Next.js` · `Vite` |
 | Backend | `.NET` · `FastAPI` · `Spring Boot` · `Node.js` · `Express` |
-| Databases | `PostgreSQL` · `SQLite` · `MongoDB` · `Redis` |
+| Databases | `PostgreSQL` · `SQLite` · `MongoDB` · `Cassandra` · `Neo4j` · `Redis` |
 | APIs & Integrations | `REST APIs` · `WebSockets` · `OSC / OSCQuery` · `WhatsApp Cloud API` |
 | DevOps & Tooling | `Docker` · `GitHub Actions` · `Git` · `Linux` |
 
