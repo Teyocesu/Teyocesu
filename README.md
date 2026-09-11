@@ -107,19 +107,12 @@ Most of my current work is about software that stays useful outside a demo:
 
 ---
 
-## GitHub Snapshot
+## GitHub Signals
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teyocesu&theme=github_dark" width="100%" alt="Profile Details" />
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teyocesu&theme=github_dark" width="49%" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teyocesu&theme=github_dark" width="49%" alt="Most Commit Language" />
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teyocesu&theme=github_dark" width="62%" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teyocesu&theme=github_dark" width="32%" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teyocesu&theme=github_dark" width="32%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teyocesu&theme=github_dark" width="32%" alt="Most Commit Language" />
 
 </div>
